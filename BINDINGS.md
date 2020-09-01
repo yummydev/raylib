@@ -18,7 +18,7 @@ Here it is a list with the ones I'm aware of:
 | raylib-go          | ? | [Go](https://golang.org/)             | https://github.com/gen2brain/raylib-go  |
 | raylib-goplus      | ? | [Go](https://golang.org/)             | https://github.com/Lachee/raylib-goplus         |
 | ray-go             | ? | [Go](https://golang.org/)             | https://github.com/hecate-tech/ray-go     |
-| raylib-rs          | ? | [Rust](https://www.rust-lang.org/)    | https://github.com/deltaphc/raylib-rs     |
+| raylib-rs          | **3.0** | [Rust](https://www.rust-lang.org/)    | https://github.com/deltaphc/raylib-rs     |
 | raylib-lua         | ? | [Lua](http://www.lua.org/)            | https://github.com/raysan5/raylib-lua       |
 | raylib-lua-ffi     | ? | [Lua](http://www.lua.org/)            | https://github.com/raysan5/raylib/issues/693    |
 | raylib-lua-sol     | ? | [Lua](http://www.lua.org/)            | https://github.com/RobLoach/raylib-lua-sol     |
